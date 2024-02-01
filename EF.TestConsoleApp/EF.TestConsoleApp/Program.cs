@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Qaleslar review qilin beringlar");
+﻿Console.WriteLine("Menda u Team lead");
