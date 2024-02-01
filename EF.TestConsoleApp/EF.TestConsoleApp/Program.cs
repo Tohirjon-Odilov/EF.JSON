@@ -1,1 +1,7 @@
-﻿Console.WriteLine("Qaleslar Review qilib beringlar");
+class Program
+{
+    public static void Main()
+    {
+
+    }
+}
